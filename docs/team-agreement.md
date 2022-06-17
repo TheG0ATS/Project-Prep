@@ -8,28 +8,59 @@
 ### Team key strengths?
 
 - **What are the key strengths of each person on the team?**
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
+  * `Lauren`: Curiosity/research, code, organization
+  * `Nicholas`: Problem-solving, Project structure, Logic
+  * `Emily`: Research, problem-solving, code logic
+  * `Jordan`: 
+  * `Steve`: Good understanding of the material. Comedic relief.
 
 - **How can you best utilize these strengths in the execution of your project?**
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
+  * `Lauren`: 
+  * `Nicholas`: 
+  * `Emily`: 
+  * `Jordan`:
+  * `Steve`:  
 
 - **In which professional competencies do you each want to develop greater strength?**
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
+  * `Lauren`: Backend, tests, writing better documentation 
+  * `Nicholas`: Frontend, Tests
+  * `Emily`: Communication, teamwork, also tests :(
+  * `Jordan`: 
+  * `Steve`: pair programming, time management
+
+- **What does a “great project week” look like for you?**
+  * `Lauren`: 
+    - Good balance of honing skills and having fun
+    - Final product is very presentable and worth putting on resume
+    - Every group member is involved and contributes
+    - Good grade 💯
+
+  * `Nicholas`: 
+    - Solid polished project for resume
+    - Strong personal contribution 
+    - Get back to enjoying coding
+
+  * `Emily`: 
+    - No micromanaging
+    - Working core hours without pressure to work beyond
+    - Get a good grade
+    - Entertaining, engaging, something that doesn’t feel dry
+    - Showcase our personalities in some way
+
+  * `Jordan`: 
+    -
+
+  * `Steve`:
+    - A great project that I can show to people and display on my resume
+    - Making daily progress
+    - No conflicts arise between team members
 
 **Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?**
 
 ## Conflict Plan
 
 - **What will be your group’s process to resolve conflict, when it arises?**
+Escalation Plan:
   * One-on-one
   * group intervention
   * instructor meeting
@@ -37,23 +68,21 @@
 > elevate as needed.
 
 - **What will your team do if one person is taking over the project and not letting the other members contribute?**
-  * Said team member will be forced to take a navigator role to allow other members to drive.
+  * Bring it up during stand-up meetings, and tell them what you are noticing. Having them take a navigator role is reccomended.
 
 - **How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?**
   * Group stand ups and the occasional check-in every few hours.
 
 - **How will you raise concerns to members who are not adequately contributing?**
-  Start at the lowest lever of our conflict resolution plan and move accordingly.
+  Ask them to step it up, and ask if there is something they need to be successful.
 
 - **How and when will you escalate the conflict if your resolution attempts are unsuccessful?**
-  * instructor intervention
+  * Follow our escalation plan, and if again that does not work, speak with JB about the issue. 
 
 ## Communication Plan
 - **Hours?**
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
+  * 10:00am - 6:00pm (PST) *core hours*
+    * 8:30am - 10:00pm (PST) *extended hours*
 
 - **Communication Platforms?**
   * Slack
@@ -62,17 +91,18 @@
   * Discord
 
 - **Breaks?**
+  * 1:00 pm - 2:00 pm lunch
   * Optional 10 min every hour
   * As needed
 
 - **What is your plan if you start to fall behind?**
-  * Work overtime, and think about our MVP (Minimum Viable Procuct) and focus on getting that before going forward with more complex tasks.
+  * Mandatory overtime, or picking up others’ slack if possible and asking for help - utilize TA’s, and other group members. Regroup and reevaluate scope if necessary (last resort).
 
 - **How will you communicate after hours and on the weekend?**
   * Please refer to communication platforms listed above
 
 - **What is your strategy for ensuring everyone’s voice is heard?**
-  * Please refer to the Conflict resolution plan listed above
+  * Scrum meetings twice/day, Remo working sessions
 
 - **How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?**
   * Discuss safety rules and general working practices. Getting regular feedback will ensure a safe and healthy work environment. Promote health codes and standards by educating your employees on the importance of health safety and cleanliness. Inspect your working area and building.
@@ -83,7 +113,7 @@
   * We will be using a project tracking tool to list tasks and assignments.
 
 - **What project management tool will be used?**
-  * `fill`
+  * `Trello`
 
 ## Presentation Deck
 [`fill`]()
