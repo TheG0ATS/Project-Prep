@@ -15,11 +15,11 @@
   * `Steve`: Good understanding of the material. Comedic relief.
 
 - **How can you best utilize these strengths in the execution of your project?**
-  * `Lauren`: 
-  * `Nicholas`: 
-  * `Emily`: 
-  * `Jordan`:
-  * `Steve`:  
+  * `Lauren`: Looking into documentation, writing good code,  keeping Trello up to date/ organized
+  * `Nicholas`: Making sure we reach a strong MVP in time, Researching new libraries.
+  * `Emily`: by doing so much research and not any testing
+  * `Jordan`: Finding useful resources, getting familiar with new libraries fast, and helping get unstuck on problem logic areas.
+  * `Steve`: I will keep my team from over extending themselves in the work and provide technical and emotional support.
 
 - **In which professional competencies do you each want to develop greater strength?**
   * `Lauren`: Backend, tests, writing better documentation 
