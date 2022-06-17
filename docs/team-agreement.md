@@ -11,7 +11,7 @@
   * `Lauren`: Curiosity/research, code, organization
   * `Nicholas`: Problem-solving, Project structure, Logic
   * `Emily`: Research, problem-solving, code logic
-  * `Jordan`: 
+  * `Jordan`: Logic flow, research, debugging
   * `Steve`: Good understanding of the material. Comedic relief.
 
 - **How can you best utilize these strengths in the execution of your project?**
@@ -25,7 +25,7 @@
   * `Lauren`: Backend, tests, writing better documentation 
   * `Nicholas`: Frontend, Tests
   * `Emily`: Communication, teamwork, also tests :(
-  * `Jordan`: 
+  * `Jordan`: Tests and better stepwise production
   * `Steve`: pair programming, time management
 
 - **What does a “great project week” look like for you?**
@@ -48,7 +48,11 @@
     - Showcase our personalities in some way
 
   * `Jordan`: 
-    -
+    - Working together/joking
+    - Polished resume ready project
+    - Interactive presentation
+    - A fun to work on, interact with, and use
+
 
   * `Steve`:
     - A great project that I can show to people and display on my resume
