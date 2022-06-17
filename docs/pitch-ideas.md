@@ -3,11 +3,12 @@
 
 # Pitch Ideas
 
-## Brainstorming Ideas
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
+## Brainstorming Ideas:
+  * `Nonogram/Picross Web Game`: Picross is a type of puzzle where you start with a blank grid, and fill in grid spaces based on the number hints on the sides of the puzzle.
+  * `Coop web game`: A game that requires 2 users to work together to solve puzzles
+  * `Pykemon`: A pocket monster type game.
+  * `Pynopoly`: A Board game built with python.
+
 
 
 ## Pitch: `Name`
