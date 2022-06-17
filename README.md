@@ -8,7 +8,7 @@ This repo contains team  documentation
 3. [**Repo and Tooling**](docs/repo-and-tooling.md)
 4. [**Wireframes**](docs/wireframes.md)
 
-## Recources:
+## Resources:
 * []()
 
 ## Our Team:
