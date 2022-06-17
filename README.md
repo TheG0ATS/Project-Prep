@@ -12,6 +12,6 @@ This repo contains team  documentation
 * []()
 
 ## Our Team:
-> Name - Name - Name - Name
+> Jordan Fleming - Emily Landers - Nicholas Mercado - Lauren Murphy - Steve Ngo
 
-'Published by: Name'
+'Published by: TheGOATS'
