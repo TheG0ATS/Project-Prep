@@ -109,7 +109,7 @@ Escalation Plan:
   * Scrum meetings twice/day, Remo working sessions
 
 - **How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?**
-  * Discuss safety rules and general working practices. Getting regular feedback will ensure a safe and healthy work environment. Promote health codes and standards by educating your employees on the importance of health safety and cleanliness. Inspect your working area and building.
+  * Discuss safety rules and general working practices. Getting regular feedback from each memeber daily. Allowing for each member to speak at our stand up, uninterrupted for a few minutes. 
 
 ## Work Plan
 
