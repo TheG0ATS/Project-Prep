@@ -3,28 +3,23 @@
 
 ## User Stories:
   - **User 1**: 
-    - **User Story**: As a user, I want to play a fun and challenging puzzle game.
+    - **User Story**: As a user, I want to be able to keep track of my tasks.
     - **Estimate**: Medium
     - **Featured Task**: 
-      - User is presented with puzzles/levels.
-      - Puzzles have a cleared/beaten state.
-      - Users can then access more puzzles/levels.
+      - User can login in and create tasks
     - **Acceptance Test**: 
-      - Puzzles have an “uncleared” state.
-      - Puzzles have a “cleared” state.
+      - Users tasks persist over time
+      - User can view only their tasks
 
 
   - **User 2**: 
-    - **User Story**: As a user, I want to be able to easily play cooperatively with a friend. 
+    - **User Story**: As a user, I want to set a time in which my tasts should be complete. 
     - **Estimate**: Medium
     - **Featured Task**: 
-      - Host/join game room functionality
-      - Game status is synced up between players via server
+      - User can input task complete time per task item 
     - **Acceptance Test**: 
-      - Player can host room
-      - Other player can join hosted room
-      - Positions and player statuses are consistently updated
-      - Player can leave room without crashing
+      - Item has ability store time complete
+      - Item ability to tell time
 
 
   - **User 3**: 
@@ -35,20 +30,18 @@
       - Minimal bugs
       - Clear instructions on how to use the app
     - **Acceptance Test**: 
-      - Test and account for all possible game bugs.
-      - Gameplay is smooth
+      - Test and account for all possible task bugs.
+      - Smooth front end
       - Create an instructional section
 
   - **User 4**: 
-    - **User Story**: As a user, I want to enjoy some type of in-game progression.  
+    - **User Story**: As a user, I want my task to be timed and a penatly added if not complete.  
     - **Estimate**: Medium
     - **Featured Task**: 
-      - Some manner of level progression, or:
-      - Some type of high-score list
-      - Possibly unlockable features
+      - If task not complete by time allowed send msg or email
     - **Acceptance Test**: 
-      - Players can clear levels
-      - New levels can be accessed after clearing prior levels
+      - Can add penatly to task
+      - Can send image or or msg automatically to input email or phone number
 
 
 ## [Software Requirements](requirements.md)
