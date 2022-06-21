@@ -46,5 +46,9 @@
 
 ## [Software Requirements](requirements.md)
 
+## Wireframe
+![wireframe](wireframe.png)
+
 ## Domain Modeling
 ![Domain Model](domain_model.png)
+ 
